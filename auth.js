@@ -3,5 +3,5 @@ function login(username) {
 }
 
 function isLoggedIn(username) {
-    return false;
+    return username === 'admin';
 }
