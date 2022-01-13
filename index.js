@@ -5,3 +5,4 @@ console.log('Feature C2 is ready');
 console.log('Feature D1 reporting for duty');
 console.log('Feature D2 is meh');
 console.log('Goodbye!');
+console.log('Finally fixed');
