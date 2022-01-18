@@ -7,3 +7,4 @@ console.log('Feature D2 is meh');
 console.log('Goodbye!');
 console.log('Finally fixed');
 console.log('Tommy is the best');
+console.log('Change from MyProject');
